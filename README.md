@@ -1,4 +1,4 @@
-Genetic_Drift_Simulations_and_Plots
+GENETIC DRIFT SIMULATIONS AND PLOTS
 
 A script containing 2 functions to simulate genetic drift and to plot the results.
 
