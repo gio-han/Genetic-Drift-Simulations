@@ -1,4 +1,7 @@
-GENETIC DRIFT SIMULATIONS
+# GENETIC DRIFT SIMULATIONS
+
+
+## Description of the Project
 
 A script containing 2 functions to simulate genetic drift and to plot the results.
 
@@ -7,3 +10,8 @@ generations. An individual’s alleles are a sample of those in present their pa
 chance has a role in determining whether that individual will survive and reproduce. Genetic
 drift may cause gene variants to disappear completely from a population and thereby reduce
 genetic variation."
+
+
+# Installation
+
+
