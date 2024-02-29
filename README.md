@@ -14,4 +14,4 @@ genetic variation."
 
 # Installation
 
-
+To run this script Python 3 is required as well as matplotlib.
